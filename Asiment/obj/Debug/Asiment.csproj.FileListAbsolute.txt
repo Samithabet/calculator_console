@@ -1,0 +1,8 @@
+D:\مجلد جديد\Asiment\Asiment\bin\Debug\Asiment.exe.config
+D:\مجلد جديد\Asiment\Asiment\bin\Debug\Asiment.exe
+D:\مجلد جديد\Asiment\Asiment\bin\Debug\Asiment.pdb
+D:\مجلد جديد\Asiment\Asiment\obj\Debug\Asiment.csproj.AssemblyReference.cache
+D:\مجلد جديد\Asiment\Asiment\obj\Debug\Asiment.csproj.SuggestedBindingRedirects.cache
+D:\مجلد جديد\Asiment\Asiment\obj\Debug\Asiment.csproj.CoreCompileInputs.cache
+D:\مجلد جديد\Asiment\Asiment\obj\Debug\Asiment.exe
+D:\مجلد جديد\Asiment\Asiment\obj\Debug\Asiment.pdb
